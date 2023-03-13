@@ -1,0 +1,5 @@
+“Data sharing” generally refers to the act of releasing data in a form that can be used by other individuals. Promoting data sharing has been the consensus of our academic community today, as it allows people to benefit from current researches in a new approach. Data sharing has been credited with increasing efficiencies in research, more reproducible science, maximizing the use of a valuable resource, allowing for an expansion of innovation, escalating collaboration, and has been credited with the rapid development of COVID-19 vaccines, therapies and diagnostics.
+
+It will be interesting to explore how researchers share their data in practice. In this project, I am going to take a small step towards big question by exploring how data sharing work is distributed within a research team. I will conduct a few exploratory analysis to answer the question.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daily008/tianji_final/HEAD)
